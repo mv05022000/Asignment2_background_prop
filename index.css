@@ -1,0 +1,48 @@
+.header{
+    height: 130px;
+    width: 100%;
+    margin: -8px;
+    background-image: linear-gradient(180deg,black, white);
+   
+    
+}
+#a{ position: sticky;
+    margin: -0px;
+    padding: 100px;
+    color: aliceblue;
+    margin-bottom: 50px;
+    font-style: italic;
+    font-size: 30px;
+   
+   
+    
+}
+#img{
+    margin: -5px;
+    padding-top: 50px;
+    margin-left: 50px;
+    width: 30%;
+    height: 500px;
+}
+.div{
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+#d1{
+    width: 50%;
+    height: 500px;
+    float: left;
+    color: white;
+}
+
+#d{
+    height: 500px;
+    width: 50%;
+    float: right;
+}
+
